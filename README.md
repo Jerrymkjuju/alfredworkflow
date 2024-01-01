@@ -2,14 +2,12 @@
 > the workflow for alfred
 
 ## Install
-___
 
 Download and open workflow file with [Alfred](https://www.alfredapp.com)
 
 btw, you should buy the Powerpack to use the workflow
 
 ## Workflows
-___
 
 ### [IP](https://github.com/Jerrymkjuju/alfredworkflow/IP) 
 
