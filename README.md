@@ -9,13 +9,14 @@ btw, you should buy the Powerpack to use the workflow
 
 ## Workflows
 
-### [IP](https://github.com/Jerrymkjuju/alfredworkflow/IP) 
-
+### [IP](https://github.com/Jerrymkjuju/alfredworkflow/IP)  ~ <u>_[Download](https://raw.githubusercontent.com/Jerrymkjuju/alfredworkflow/main/IP/ip.alfredworkflow)_</u>
 Query the region corresponding to the IP address with [ip-api.com](https://ip-api.com)
 
 **You should install python2 first**
 
-> doesn't support python3 https://pypi.org/project/Alfred-Workflow/
+> doesn't support python3
+> 
+> Reference: https://pypi.org/project/Alfred-Workflow/
 
 #### How to use
 
